@@ -1,0 +1,20 @@
+#titulo{
+    background-color: whitesmoke;
+    color: darkseagreen;
+}
+#subtitulo{
+    background-color: yellow;
+    color: black;
+}
+#Cor{
+    color: coral;
+}
+#Tamanho{
+    font-size: 900px;
+}
+#Família{
+    font-family: "Caveat";
+}
+#Alinhamento{
+    text-align: right;
+}
